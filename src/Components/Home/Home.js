@@ -31,7 +31,7 @@ const Home = () => {
               </div>
 
               <div className="col-sm-12 col-md-6 col-lg-6 col-12">
-                  <img className="image-size img-fluid" src={image} alt=""/>
+                  <img className="pt-5 image-size img-fluid" src={image} alt=""/>
               </div>
           </div>
           
